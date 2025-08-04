@@ -1,6 +1,4 @@
-Sure. Here’s a `README.md` you can drop into the repo:
 
-````markdown
 # Fast Rule-Based Word Normalizer & Matcher
 
 ## Overview
@@ -155,9 +153,5 @@ Specify your license here (e.g., MIT, proprietary, etc.)
 Include a short demo script or link if needed.
 For detailed evaluation report generation, run the provided evaluation script and share the TSVs.
 
-```
 
-Would you like a version of this turned into a one-page PDF or a slide for the founder?
-::contentReference[oaicite:0]{index=0}
-```
 
